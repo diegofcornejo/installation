@@ -1,4 +1,4 @@
-# installation
+# Installation
 #Install YGOPRO Server
 ```
 #!/bin/bash
